@@ -1,0 +1,1 @@
+This repository contains a simple labyrinth game made for fun during Christmas holidays. LabyrinthGame.py runs the actual game, where a labyrinth, generated using a depth-first search algorithm, is traversible with arrow keys as a red circle. LabyrinthAnimator.py should show an animation of the labyrinth generation process in real time. 
